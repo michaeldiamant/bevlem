@@ -3,6 +3,7 @@
 declare -a tracked_repos=(
   "akashi"
   "ansible"
+  "drumheller"
   "helix"
   "hellgate"
   "hellgate-external"
